@@ -1,6 +1,6 @@
 Email = input("Enter your Email:") #g@g.in
 k=0 # Just used for Getting update if there is an space in email it will update to one and print wrong email
-j=0
+j=0 
 d=0
 if len(Email)>=6:
     if Email[0].isalpha():
@@ -19,9 +19,9 @@ if len(Email)>=6:
                     else:
                         d=1
                 if k==1 or j==1 or d==1:
-                    print("Wrong Email Space hai,5")
+                    print("Wrong Email Space hai/UpperCase/,5")
             else:
-                print("wrong Email,4")
+                print("Dot(.) use kar be,4")
         else:
             print("Email should have @ symbol and it should be only once ,3")
     else:
