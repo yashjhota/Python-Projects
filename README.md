@@ -1,6 +1,6 @@
 # 🐍 Python Projects 🚀
 
-Welcome to my Python project repository! Here, you'll find a collection of exciting Python-based projects aimed at solving real-world problems and improving my coding skills as well problem solving. Feel free to explore and contribute! 😊
+Welcome to my Python project repository! Here, you'll find a collection of exciting Python projects aimed to improve my coding skills as well problem solving. Feel free to explore and contribute! 😊
 
 
 
